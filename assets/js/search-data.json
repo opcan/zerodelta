@@ -5,17 +5,6 @@
     
   
     
-        "post2": {
-            "title": "An Example Markdown Post",
-            "content": "ccyycx . cyxcyc | cxyycy | . cxcxcyyccyycc . dsadada . cxcycy cxcyy cyyxc xyxyxxyx asasjshajshk fjdkfjksfs . The sky above the port was the color of television, tuned to a dead channel. It was a bright cold day in April, and the clocks were striking thirteen. djkaldjadjaladjakdjdjldjldjdjajdjjaldjsakljaljjd djakdjaljljddu uueoeuweueuoqueqoeueuoqueueueq jkjdsjakjdakljd .",
-            "url": "https://opcan.github.io/zerodelta/markdown/2021/02/23/Pokus1.html",
-            "relUrl": "/markdown/2021/02/23/Pokus1.html",
-            "date": " • Feb 23, 2021"
-        }
-        
-    
-  
-    
   
     
   
@@ -26,7 +15,7 @@
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "O mně",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://opcan.github.io/zerodelta/about/",
