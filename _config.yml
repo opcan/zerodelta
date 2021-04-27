@@ -42,7 +42,7 @@ minima:
     #twitter: fastdotai
     #github: fastai
     linkedin:
-    facebook:
+    #facebook:
 
 # Set this to true to get LaTeX math equation support
 use_math: 
