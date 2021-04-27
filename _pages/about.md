@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Zakladatel **[Quantical](https://https://quantical.eu/)** [^1]. Delta Neutral Vol Arbitrage Fund
 
+ludek.skyva@quantical.eu
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
