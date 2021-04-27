@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Zakladatel **[Quantical](https://quantical.eu/)** [^1]. Delta Neutral Vol Arbitrage Fund
+Zakladatel **[Quantical](https://quantical.eu/)**. Delta Neutral Vol Arbitrage Fund
 
 ludek.skyva@quantical.eu
 
