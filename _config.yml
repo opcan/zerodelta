@@ -34,7 +34,7 @@ url: "https://0delta.cz" # the base hostname & protocol for your site, e.g. http
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/zerodelta" # the subpath of your site, e.g. "/blog".
+#baseurl: "/zerodelta" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
